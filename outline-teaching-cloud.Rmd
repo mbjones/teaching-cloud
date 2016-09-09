@@ -1,9 +1,19 @@
 ---
-title: "Breakout 6: Desktop to cloud (for teaching)"
-author: Tracy, Mike, Lauren, Matt, Julien, Carl, Ethan, Ben, Mark
+title: "Transitioning from the desktop to cloud computing for teaching"
+author:
+    - Tracy Teal
+    - Mike Smorul
+    - Lauren
+    - Matthew B. Jones
+    - Julien Brun
+    - Carl Boettiger
+    - Ethan White
+    - Ben Bolker
+    - Mark Schildhauer
 date: "`r format(Sys.time(), '%H:%M %d %B %Y')`"
 output: html_document
 ---
+
 MPS-- definition of Cloud Computing from NIST (is this agreeable to all?):
  “Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction.”--http://www.nist.gov/itl/cloud/
 

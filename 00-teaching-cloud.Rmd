@@ -1,0 +1,41 @@
+---
+title: "Transitioning from the desktop to cloud computing for teaching"
+author:
+    - Tracy Teal
+    - Mike Smorul
+    - Lauren
+    - Matthew B. Jones
+    - Julien Brun
+    - Carl Boettiger
+    - Ethan White
+    - Ben Bolker
+    - Mark Schildhauer
+output:
+  pdf_document:
+    fig_caption: yes
+    keep_tex: yes
+  html_document: default
+bibliography: references.bib
+fontsize: 12
+---
+
+```{r child = '01-introduction.Rmd'}
+```
+
+```{r child = '02-stage1.Rmd'}
+```
+
+```{r child = '03-stage2.Rmd'}
+```
+
+```{r child = '04-stage3.Rmd'}
+```
+
+```{r child = '05-conclusion.Rmd'}
+```
+
+```{r child = '06-boxes.Rmd'}
+```
+
+References
+----------

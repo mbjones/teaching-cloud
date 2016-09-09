@@ -1,0 +1,33 @@
+## Stage 1: Teaching in the cloud (msmorul)
+
+Teaching "*in* the cloud" means using cloud/remote services for teaching (typically) introductory/undergraduate quantitative material. The goal is for the local vs. remote distinction to be largely transparent to the end-users (students); they only know that they have to go to URL (xxx) in order to use R/Python whatever.  (Instructors of stage 1 courses need to start at stage 2 so they have basic administrative/troubleshooting skills required.)
+
+### Advantages
+
+* make instructors' lives easier
+* accessibility
+* uniformity of the students’ work environments
+* usage via pre-defined systems (e.g., genomics, Rocker, etc.)
+* improved pedagogy for students, learn to work in clean environment
+* empower/lower barriers for later transition to the cloud/remote computing
+* avoid command-line bullshittery, but get buy-in of remote use for later
+
+### Disadvantages
+licensing/usage/copyright restrictions by institutions
+costs?
+end-user systems not configured to work independently
+ good set of “teaching images” not yet available
+
+
+### Learning objectives
+
+* *mostly* not remote-computing-related: remote computing is a means to an end
+* (some) awareness of remote computing (data staging, etc)
+
+
+### Examples
+
+* Duke intro stats
+* Berkeley: Jupyter/Python in the cloud
+* Google Group of folks using JupyterHub for teaching https://groups.google.com/forum/#!forum/jupyter-education
+* SESYNC viz course - local vm’s

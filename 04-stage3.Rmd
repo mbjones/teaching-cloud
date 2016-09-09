@@ -1,0 +1,52 @@
+## Stage 3: Teaching the cloud (intermediate/advanced scalable computing)
+
+Target audience: researchers and educators, who need to customize images for their own use or do heavier/more complicated computing: postdocs, advanced students. Once students 
+
+Multiple Goals:
+* Customizing or creating images for teaching or research
+* scaling processing across multiple images.
+
+### Advantages
+
+* Customization
+* Enabling cross-platform testing for developers/maintainers
+* parallelization is a benefit, but requires a higher level of understanding (can hide some of the difficulty for trivially parallel jobs, especially if libs are parallel enabled)
+* Enables/enforces reproducibility/documentation
+* HPC can be seamless when proper frontends are available (RStudio, Jupyter)
+* cloud motivates the command line
+
+### Disadvantages
+
+* logistics: administering instances, funding, hacking/security
+* some will go away as stuff matures, but ...
+* toolchain not installed locally; people don't learn how to do the installs
+* HPC tools: different stacks, schedulers, data stores, etc.
+* HPC and cloud barriers are different but both problems
+* back-end technologies are rapidly evolving
+* possibly not optimal for “Big Data” challenges
+
+###  Learning objectives
+
+* conceptual understanding (how does it work? how do I log in?)
+* spinning (locating and choosing) up multiple instances
+* choice of platforms (Amazon, Docker, Azure, iPlant, etc.)
+* ssh and basic command line stuff
+* security basics
+* payment models
+* `screen`
+* transition to the cloud:
+    * leave GUI running on the instance
+    * single R CMD BATCH
+    * multiple R CMD BATCH
+    * multiple instances
+    * security, key mgt, etc
+    * ... ? learn to spawn multiple instances, distribute, etc.
+    * distributed vs. parallel computation
+
+What are the pre-req skills & concepts?
+
+### Examples
+
+* NGS course
+* Data Carpentry metagenomics
+* need more practical, concrete examples/context

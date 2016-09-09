@@ -1,0 +1,30 @@
+# Introduction (BMB)
+
+now is the time to transition to teaching in the cloud
+current and past problems that motivate this transition, 
+for 25 years there’s been a computer in the corner that says ‘Do Not Touch’ 
+we buy hardware that’s soon obsolete, or there’s not the staff to support
+locked down computer labs are no longer ...
+
+we can do better 
+compute resources exist at reasonable cost 
+we simply can’t do many of our analyses on our desktops
+in the class room advantages in uniformity and transitioning to scalable computing for teaching
+we will be teaching skills that are useful in data driven research and industry
+logistical convenience for teaching
+there are many ways to access remote/scalable computing, cloud like AWS, local HPC resources
+The path we are describing is one path to the cloud or other shared resources (locally hosted servers, HPC)
+This technique is designed to be technology agnostic, however the public cloud is almost universally accessible. Much of what we discuss below is equally applicable to other platforms such as HPC; we highlight distinctions between the public cloud and other platforms where they exist.
+In this paper we will describe three stages that go from accessing the internet on a computer to setting up and running your own custom environments. More info on stages. 
+
+# Stages of the cloud transition
+
+ * Stage 1 ("teaching in the cloud"): use simple front ends (RStudio/Jupiter/etc.), users don't realize they are on the cloud
+- moving beyond the locked down computer lab and teaching using readily acessible images. We will show some of the images and describe the concepts an instructor needs to master in order to each in the cloud.
+
+* Stage 2: ("teaching the cloud (basic)") Empower via the command line, people consciously choose the cloud, possibly just run a new instance
+Move to community standard images
+        * when and how this happens is domain- and data-specific  
+* Stage 3: ("teaching the cloud"): the power of multiple instances, configuring new VMs via containerized environments (e.g., via Docker)
+        * New trainers should start at level 2 or 3
+* Stage 4 (?): ("teaching the cloud (advanced)"): distributed and parallelized computation, high-performance computation

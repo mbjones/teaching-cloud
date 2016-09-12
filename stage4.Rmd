@@ -1,0 +1,23 @@
+## Stage 4: Parallel computing
+
+Target audience:  
+
+Goals:
+
+* ...
+
+### Advantages
+
+* ...
+
+### Disadvantages
+
+* ...
+
+###  Learning objectives
+
+* ...
+
+### Examples
+
+* ...

@@ -1,20 +1,19 @@
 # Boxes (ideas)
 
-
 * Box 1: basic glossary/concepts (instance, "spin up", HPC, ...) (do this later)
 * Box 2: (MPS) scalable alternatives to the cloud. Availability is *highly* variable. Costs and benefits (cost, flexibility, admin load …) have to be considered carefully.
 * Box 3: Gaps (EW)
 
-* data storage solutions
-    * temporary storage solution, not an archive
-    * objections to S3: not well-integrated with EC2; specialized data transfer modes
-    * need user-level answers/best practices/basic concepts
-    * use KNB (NCEAS data repo)
-    * Center for Open Science (workflow repository)
-    * don't want to mandate openness?
-    * security
-* all technologies are rapidly evolving
-* funding and prep for the cloud is lacking; need HOWTO teach and setup and acquire the cloud
+    * data storage solutions
+        * temporary storage solution, not an archive
+        * objections to S3: not well-integrated with EC2; specialized data transfer modes
+        * need user-level answers/best practices/basic concepts
+        * use KNB (NCEAS data repo)
+        * Center for Open Science (workflow repository)
+        * don't want to mandate openness?
+        * security
+    * all technologies are rapidly evolving
+    * funding and prep for the cloud is lacking; need HOWTO teach and setup and acquire the cloud
 * Box 4: recommendations (EW)
-people should start doing this stuff in the classroom!
-encourage campus/local IT to support virtual environments (not just classic HPC model)
+    * people should start doing this stuff in the classroom!
+    * encourage campus/local IT to support virtual environments (not just classic HPC model)

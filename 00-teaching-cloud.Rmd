@@ -18,14 +18,22 @@ output:
 bibliography: references.bib
 fontsize: 12
 ---
-Original working notes [here](http://notes.nceas.ucsb.edu/p/ds-workshop-2015-b6-cloud)  
+<!--
+[Original working notes](http://notes.nceas.ucsb.edu/p/ds-workshop-2015-b6-cloud)
+[Original Google Doc file](https://docs.google.com/document/d/1Ae-eqRbIn6A-OyZs_oVCgwZlIvvP0o2U7FtonpECVyk/edit)
+-->
 
+<!--
 Audience:
 - Not CS
 - domain scientist
 - folks looking for a roadmap
 - Journals: 
 - Transitioning from desktop to scalable computing
+-->
+
+```{r child = 'abstract.Rmd'}
+```
 
 ```{r child = 'introduction.Rmd'}
 ```

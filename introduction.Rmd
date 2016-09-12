@@ -1,5 +1,10 @@
 # Introduction (BMB)
 
+MPS-- definition of Cloud Computing from NIST (is this agreeable to all?):
+ “Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction.”--http://www.nist.gov/itl/cloud/
+
+- Cloud computing enabled today due to advances in virtualization (VMs) and containerization (e.g., Docker) to create light weight virtual hosts
+
 - now is the time to transition to teaching in the cloud
 - current and past problems that motivate this transition, 
 - for 25 years there’s been a computer in the corner that says ‘Do Not Touch’ 

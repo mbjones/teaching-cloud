@@ -13,17 +13,15 @@ Teaching "*in* the cloud" means using cloud/remote services for teaching (typica
 * avoid command-line bullshittery, but get buy-in of remote use for later
 
 ### Disadvantages
-licensing/usage/copyright restrictions by institutions
-costs?
-end-user systems not configured to work independently
- good set of “teaching images” not yet available
+* licensing/usage/copyright restrictions by institutions costs?
+* end-user systems not configured to work independently
+* good set of “teaching images” not yet available
 
 
 ### Learning objectives
 
-* *mostly* not remote-computing-related: remote computing is a means to an end
+* __mostly__ not remote-computing-related: remote computing is a means to an end
 * (some) awareness of remote computing (data staging, etc)
-
 
 ### Examples
 

@@ -1,10 +1,10 @@
 ## Stage 3: Teaching the cloud (intermediate/advanced scalable computing)
 
-Target audience: researchers and educators, who need to customize images for their own use or do heavier/more complicated computing: postdocs, advanced students. Once students 
+Target audience: researchers and educators, who need to customize images for their own use or do heavier/more complicated computing: postdocs, advanced students. Once students... 
 
 Multiple Goals:
 * Customizing or creating images for teaching or research
-* scaling processing across multiple images.
+* scaling processing across multiple images
 
 ### Advantages
 

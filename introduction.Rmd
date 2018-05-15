@@ -19,7 +19,7 @@ MPS-- definition of Cloud Computing from NIST (is this agreeable to all?):
 - there are many ways to access remote/scalable computing, cloud like AWS, local HPC resources, agency-sponsored HPC resources
 - The path we are describing is one path to the cloud or other shared resources (locally hosted servers, HPC)
 - This technique is designed to be technology agnostic, however the public cloud is almost universally accessible. Much of what we discuss below is equally applicable to other platforms such as HPC; we highlight distinctions between the public cloud and other platforms where they exist.
-- In this paper we will describe three stages that go from accessing the internet on a computer to setting up and running your own custom environments. More info on stages. 
+- In this paper we will describe four stages that go from accessing the internet on a computer to setting up and running your own custom environments. More info on stages. 
 
 # Stages of the cloud transition
 
@@ -29,7 +29,8 @@ MPS-- definition of Cloud Computing from NIST (is this agreeable to all?):
 * Stage 2: ("teaching the cloud (basic)")
     * Empower via the command line, people consciously choose the cloud, possibly just run a new instance
     * Move to community standard images
-    * when and how this happens is domain- and data-specific  
+    * when and how this happens is domain- and data-specific 
+    * and can be enabled through cloud systems like Whole Tale [@Brinkman2018] and Binder
 * Stage 3: ("teaching the cloud (advanced)"):
     * the power of multiple instances, configuring new VMs via containerized environments (e.g., via Docker)
     * New trainers should start at level 2 or 3

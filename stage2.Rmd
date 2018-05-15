@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 ##  Stage 2: Teaching the cloud (basic)
 
 This an intermediate stage; target audience includes (i) trainers who want to teach in the cloud; (ii) researchers who want to do *basic* scalable computing.
@@ -18,7 +23,7 @@ This an intermediate stage; target audience includes (i) trainers who want to te
 ### Examples
 * point to DC “how to spin up your own instance” lesson (not taught)         
     * https://github.com/JasonJWilliamsNY/cloud-genomics/blob/master/lessons/1.logging-onto-cloud.md (still needs updating)
-* Whole Tale to spin up Docker instances via the web [Brinckman2018]
+* Whole Tale to spin up Docker instances via the web [@Brinkman2018]
 * Titus Brown’s short courses http://angus.readthedocs.org/en/2014/day1.html
 * iPlant Atmosphere on Jetstream
 * EDAMAME course https://github.com/edamame-course/2015-tutorials/blob/master/final/2015-06-22-EC2_Startup.md, https://github.com/edamame-course/2015-tutorials/blob/master/final/2015-06-22-EC2_Connection_FileTransfer.md
